@@ -1,2 +1,19 @@
-
 /* Your CSS Code here. */
+.moviePic{
+	margin: 10px;
+	height:300px;
+	width:200px;
+	opacity:.8;
+}
+.movieDetail{
+	margin: 10px;
+	 font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align:justify;
+    text-shadow: #000000;
+    font-weight: bold;
+    width: 380px;
+    top: -10px;
+    position: relative;
+    position: relative;
+}
